@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2874ca2-9cdc-4f80-8f6b-a90c2870c8d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css" beforeDir="false" afterPath="$PROJECT_DIR$/css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +17,7 @@
   <component name="ProjectId" id="2QCGkvntrMgOEm1lKyJplkavyyp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -40,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684850297168</updated>
-      <workItem from="1684850300153" duration="1608000" />
+      <workItem from="1684850300153" duration="2233000" />
     </task>
     <servers />
   </component>
